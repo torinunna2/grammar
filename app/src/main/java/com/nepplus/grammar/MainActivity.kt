@@ -74,8 +74,9 @@ class MainActivity : AppCompatActivity() {
 //            사람 2는 멀어서 취업 안함.
         }
 
-        if (companyABalance || companyASalary >= 5000)
+        if (companyABalance || companyASalary >= 5000) {
 //            사람 3은 취업(둘 중 하나만 만족해도 됨)
+        }
     }
 
 }
