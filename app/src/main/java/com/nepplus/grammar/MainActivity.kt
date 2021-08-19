@@ -36,6 +36,12 @@ class MainActivity : AppCompatActivity() {
         myBirthYear = 1996
         Log.d("출생년도", myBirthYear.toString())
 
+// 조건문 체험 부분
+
+        val UserAge = 10
+
+        if ( userage)
+
 
     }
 }
